@@ -1,5 +1,3 @@
-# haratres-fit-staj
- Haratres FIT Staj Programı Değerlendirme Ödevi
 # Haratres FIT Staj Programı - Değerlendirme Ödevi
 
 Bu proje, Haratres FIT Staj Programı kapsamında verilen değerlendirme ödevinin çözümlerini içermektedir.
